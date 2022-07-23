@@ -22,5 +22,5 @@ System.out.println(autoMama.getBeifahrer());
 }
 
 
-// Wochende =Beifahrer Irina
+// Wochende = Beifahrer Irina
 //NichtWochende = Beifahrer Albert
